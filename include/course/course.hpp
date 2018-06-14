@@ -10,5 +10,7 @@
 #define COURSE_COURSE_HPP_
 
 #include <course/removethisfile.hpp>
+#include <course/concepts.hpp>
+#include <course/utility.hpp>
 
 #endif /*COURSE_COURSE_HPP_*/
